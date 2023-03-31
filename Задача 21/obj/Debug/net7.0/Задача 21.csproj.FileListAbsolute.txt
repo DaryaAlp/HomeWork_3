@@ -1,0 +1,15 @@
+D:\Курсы_программирование\C#\HW_3\Задача 21\obj\Debug\net7.0\Задача 21.csproj.AssemblyReference.cache
+D:\Курсы_программирование\C#\HW_3\Задача 21\obj\Debug\net7.0\Задача 21.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсы_программирование\C#\HW_3\Задача 21\obj\Debug\net7.0\Задача 21.AssemblyInfoInputs.cache
+D:\Курсы_программирование\C#\HW_3\Задача 21\obj\Debug\net7.0\Задача 21.AssemblyInfo.cs
+D:\Курсы_программирование\C#\HW_3\Задача 21\obj\Debug\net7.0\Задача 21.csproj.CoreCompileInputs.cache
+D:\Курсы_программирование\C#\HW_3\Задача 21\bin\Debug\net7.0\Задача 21.exe
+D:\Курсы_программирование\C#\HW_3\Задача 21\bin\Debug\net7.0\Задача 21.deps.json
+D:\Курсы_программирование\C#\HW_3\Задача 21\bin\Debug\net7.0\Задача 21.runtimeconfig.json
+D:\Курсы_программирование\C#\HW_3\Задача 21\bin\Debug\net7.0\Задача 21.dll
+D:\Курсы_программирование\C#\HW_3\Задача 21\bin\Debug\net7.0\Задача 21.pdb
+D:\Курсы_программирование\C#\HW_3\Задача 21\obj\Debug\net7.0\Задача 21.dll
+D:\Курсы_программирование\C#\HW_3\Задача 21\obj\Debug\net7.0\refint\Задача 21.dll
+D:\Курсы_программирование\C#\HW_3\Задача 21\obj\Debug\net7.0\Задача 21.pdb
+D:\Курсы_программирование\C#\HW_3\Задача 21\obj\Debug\net7.0\Задача 21.genruntimeconfig.cache
+D:\Курсы_программирование\C#\HW_3\Задача 21\obj\Debug\net7.0\ref\Задача 21.dll
